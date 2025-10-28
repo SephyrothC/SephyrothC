@@ -95,8 +95,6 @@ Technologies utilisées : `JavaScript` `React` `API REST`
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/SephyrothC/count.svg)
-  
   **Merci de visiter mon profil ! N'hésitez pas à explorer mes projets 🚀**
   
 </div>
